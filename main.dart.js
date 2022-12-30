@@ -49170,8 +49170,8 @@ return new A.kr(A.Bk(B.cb,A.a([A.a2C(new A.ov(new A.Zz(),s,s,t.DV),s,s),A.aeO(0,
 $S:319}
 A.Zz.prototype={
 $3(a,b,c){var s,r=null,q=A.bu("text")
-if(A.im()!=null&&b.a.length!==0&&b.b===4)q.sbL("Connected")
-else if(A.im()!=null&&b.a.length!==0&&b.b!==4)q.sbL("Wrong chain. Please connect to 4")
+if(A.im()!=null&&b.a.length!==0&&b.b===97)q.sbL("Connected")
+else if(A.im()!=null&&b.a.length!==0&&b.b!==97)q.sbL("Wrong chain. Please connect to 97")
 else if(A.im()!=null){s=t.E
 return new A.wb(B.j9,B.pC,B.ez,B.k2,r,B.iX,r,A.a([B.HT,B.DM,new A.x8(new A.Zx(a),r,r,r,r,B.J,r,!1,r,A.a75(A.a([A.a64("https://i0.wp.com/kindalame.com/wp-content/uploads/2021/05/metamask-fox-wordmark-horizontal.png?fit=1549%2C480&ssl=1",r,r,300)],s),B.ez),r)],s),r)}else q.sbL("Please use a Web3 supported browser.")
 return new A.AY(new A.Zy(),A.afS(q.aH(),A.cf(a).RG.f,B.iR,r),r)},
