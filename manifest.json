@@ -1,6 +1,6 @@
 {
-    "name": "metaconnection",
-    "short_name": "metaconnection",
+    "name": "swap",
+    "short_name": "swap",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
