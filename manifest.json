@@ -1,6 +1,6 @@
 {
-    "name": "swap",
-    "short_name": "swap",
+    "name": "conwalmeta",
+    "short_name": "conwalmeta",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
