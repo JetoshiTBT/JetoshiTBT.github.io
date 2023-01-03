@@ -1,6 +1,6 @@
 {
-    "name": "conwalmeta",
-    "short_name": "conwalmeta",
+    "name": "metaconnection",
+    "short_name": "metaconnection",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
